@@ -9,4 +9,6 @@ The following python program contains calculation for 4 Distance measures:
 The inputs have been hard coded for now, you may modify it to take the inputs from user.
 
 
-Code contributed by Noel Pudussery.
+
+
+<i>Code contributed by Noel Pudussery.</i>
